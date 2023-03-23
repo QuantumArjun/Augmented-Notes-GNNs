@@ -3,8 +3,7 @@
 Welcome to the repo! Here, we'll provide detailed instructions to duplicate the results from this blog post - https://medium.com/@arjunkaranam10/augmenting-your-notes-using-graph-neural-networks-e61f0898033a. 
 
 ## Downloading the repo 
-Go to your terminal, and clone the git repo by running <code>git clone https://github.com/QuantumArjun/Augmented-Notes-GNNs.git </code>
-
+Go to your terminal, and clone the git repo by running <code>git clone https://github.com/QuantumArjun/Augmented-Notes-GNNs.git</code>
 After running this command, you should have a copy of the git repo on your computer.
 
 ## Setting up your environment

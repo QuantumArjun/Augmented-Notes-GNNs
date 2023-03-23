@@ -31,3 +31,7 @@ Other flags you can control are:
 * --test, default = false (whether you want to run in validation mode)
 
 * --save_dir, default = "../../results/data/vgae/", where you want to save your model 
+
+While you're running the model, you can run the following command <code> "tensorboard --logdir="results/logs" </code> in order to see the results ive on tensorboard.
+
+And there you go! You're able to train and test the GNN locally on your computer. Unfortunately, in order to try it out on your own notes, you need access to the full dataset, which is currently 25gb. We are currently working on extracting just the title so that the prediction doesn't require accessing the full graph.

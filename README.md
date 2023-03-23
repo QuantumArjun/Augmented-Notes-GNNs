@@ -8,7 +8,7 @@ After running this command, you should have a copy of the git repo on your compu
 
 ## Setting up your environment
 
-To ensure that your package versions aling with ours, run the following command inside Augmented-Notes-GNNs <code>pip install -r requirements.txt<.code>
+To ensure that your package versions aling with ours, run the following command inside Augmented-Notes-GNNs <code>pip install -r requirements.txt</code>
 This should install the necessary packages onto your computer.
 
 ## Accessing the Dataset

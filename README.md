@@ -17,11 +17,17 @@ Instructions will come shortly on how to use our wiki extractor in order to crea
 To train the model, navigate over to /experiments/linkprediction
 
 Once you're inside this folder, run the following command
-<code> python train_vgae.py --dataset ../../dataset/model/graph.pickle </code>
+<code> python train_vgae.py --dataset ../../dataset/model/graph.pickle</code>
+
 The dataset flag tells the code where it should get the dataset from. If you've created your own, point it towards this direction. 
+
 Other flags you can control are:
 --epochs, default = 200
+
 --val_freq, default = 20 (how often validation results are printed)
+
 --runs, default = 3
+
 --test, default = false (whether you want to run in validation mode)
+
 --save_dir, default = "../../results/data/vgae/", where you want to save your model 

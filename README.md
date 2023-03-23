@@ -5,7 +5,7 @@ Welcome to the repo! Here, we'll provide detailed instructions to duplicate the 
 ## Downloading the repo 
 Go to your terminal, and clone the git repo by running <code>git clone https://github.com/QuantumArjun/Augmented-Notes-GNNs.git </code>
 
-You should have a copy of the git repo on your computer
+After running this command, you should have a copy of the git repo on your computer.
 
 ## Accessing the Dataset
 The repo comes with a compressed version of the dataset (in the form of graph.pickle under dataset/model

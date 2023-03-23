@@ -7,6 +7,11 @@ Go to your terminal, and clone the git repo by running <code>git clone https://g
 
 After running this command, you should have a copy of the git repo on your computer.
 
+## Setting up your environment
+
+To ensure that your package versions aling with ours, run the following command inside Augmented-Notes-GNNs <code>pip install -r requirements.txt<.code>
+This should install the necessary packages onto your computer.
+
 ## Accessing the Dataset
 The repo comes with a compressed version of the dataset (in the form of graph.pickle under dataset/model
 

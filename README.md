@@ -2,8 +2,8 @@
 
 Welcome to the repo! Here, we'll provide detailed instructions to duplicate the results from this blog post - https://medium.com/@arjunkaranam10/augmenting-your-notes-using-graph-neural-networks-e61f0898033a. 
 
-##Downloading the repo 
-Go to your terminal, and clone the git repo by running <code> git clone https://github.com/QuantumArjun/Augmented-Notes-GNNs.git </code>
+## Downloading the repo 
+Go to your terminal, and clone the git repo by running <code>git clone https://github.com/QuantumArjun/Augmented-Notes-GNNs.git </code>
 
 You should have a copy of the git repo on your computer
 
@@ -32,6 +32,6 @@ Other flags you can control are:
 
 * --save_dir, default = "../../results/data/vgae/", where you want to save your model 
 
-While you're running the model, you can run the following command <code> "tensorboard --logdir="results/logs" </code> in order to see the results ive on tensorboard.
+While you're running the model, you can run the following command <code>tensorboard --logdir="results/logs" </code> in order to see the results ive on tensorboard.
 
 And there you go! You're able to train and test the GNN locally on your computer. Unfortunately, in order to try it out on your own notes, you need access to the full dataset, which is currently 25gb. We are currently working on extracting just the title so that the prediction doesn't require accessing the full graph.
